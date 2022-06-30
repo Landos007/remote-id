@@ -1,4 +1,4 @@
-/* $screen-type-tag: lg\:;
+$screen-type-tag: lg\:;
 @import "variables";
  
  
@@ -30,4 +30,4 @@
 	}
 	@import 'responsive';
 }
-  */
+ 

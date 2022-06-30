@@ -1,4 +1,4 @@
-/* @import 'laptop';
+@import 'laptop';
 $screen-type-tag: xl\:;
 
 @media (min-width: 1280px) {
@@ -28,4 +28,4 @@ $screen-type-tag: xl\:;
 		width: 100%;
 	}
 	@import 'responsive';
-} */
+}
